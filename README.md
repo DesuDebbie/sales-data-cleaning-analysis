@@ -17,3 +17,6 @@ I used Microsoft Excel to clean and analyze sales data, identify inconsistencies
 - Data Cleaning & Visualization
 
 This project helped me develop my data analysis skills and understand how data quality can impact business decisions.
+
+
+<img width="1367" height="708" alt="image" src="https://github.com/user-attachments/assets/7d363d55-d23b-4af4-831d-173dd5c78b8b" />
