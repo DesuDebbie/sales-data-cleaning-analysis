@@ -1,6 +1,6 @@
 # Sales Data Cleaning & Analysis
 
-This project was developed as part of my Data Analyst course at CESAE Digital.
+This project was developed as part of my Data Analyst training at CESAE Digital, through the PRO_MOV by Reskilling 4 Employment programme.
 
 I used Microsoft Excel to clean and analyze sales data, identify inconsistencies, and explore sales performance.
 
